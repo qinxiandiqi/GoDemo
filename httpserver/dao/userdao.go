@@ -1,7 +1,7 @@
 package dao
-import "github.com/qinxiandiqi/GoDemo/httpserver/model"
+import "github.com/qinxiandiqi/GoDemo/httpserver/models"
 
-func FindUserByUsername(username string) (user model.User){
+func FindUserByUsername(username string) (user models.User){
 
 	return
 }
