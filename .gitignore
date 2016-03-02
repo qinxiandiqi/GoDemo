@@ -26,4 +26,5 @@ _testmain.go
 
 *.iml
 
+httpserver/conf/database.conf
 
